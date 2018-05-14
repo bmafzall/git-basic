@@ -1,7 +1,8 @@
 <?php
 echo "afzall";
 
-echo 'sumon';
+echo 'sumon is a good boy';
+echo 'afzall is good boy also';
 ?>
 
 
